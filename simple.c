@@ -1,5 +1,6 @@
 #include <stdio.h>
 
 int main(){
-	printf("Hi lol");
+	printf("Hi lol\n");
+	printf("Ur gay lol");	
 }
