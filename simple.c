@@ -2,5 +2,5 @@
 
 int main(){
 	printf("Hi lol\n");
-	printf("Ur gay lol");	
+	printf("how are you lol");	
 }
